@@ -1,4 +1,0 @@
-name: PrimeVouchers
-version: '${project.version}'
-main: net.primegames.primevouchers.PrimeVouchersAPI
-api-version: 1.18
